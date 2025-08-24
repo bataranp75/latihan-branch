@@ -1,3 +1,2 @@
 # latihan-branch
-Latihan aja
-mau latihan tapi males
+Mau latihan tapi rajin
